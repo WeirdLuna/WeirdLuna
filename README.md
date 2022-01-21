@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WeirdLuna
+- 👀 I’m interested in Programming and UI/UX
+- 🌱 I’m currently learning Javascript and C
+- 💞️ I’m looking to collaborate on Design and Coding Projects
+- 📫 Love to delve into things above my ability to increase my river of Knowledge
